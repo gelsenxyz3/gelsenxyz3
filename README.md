@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════════════════════════════════════
      GELSEN KRISTOVAN SALELEUBAJA — DEVELOPER COMMAND CENTER
-     File animasi ada di akar repo (header.svg, skills.svg, languages.svg, focus.svg).
+     File animasi ada di akar repo (header.svg, terminal.svg, skills.svg, languages.svg, focus.svg).
      Cari teks "GANTI" untuk menemukan semua placeholder link.
      ═══════════════════════════════════════════════════════════ -->
 
@@ -13,33 +13,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=06B6D4&center=true&vCenter=true&width=700&height=40&lines=RPL+Student;Web+Developer;Mobile+Developer+(Flutter);UI%2FUX+Designer;Video+Editor;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Typing animation" />
 </a>
 
-<p>
-  <img src="https://img.shields.io/badge/SMK-Bagimu%20Negeriku-8B5CF6?style=flat-square&labelColor=0D1117" alt="Sekolah" />
-  <img src="https://img.shields.io/badge/Jurusan-RPL-06B6D4?style=flat-square&labelColor=0D1117" alt="Jurusan" />
-  <img src="https://img.shields.io/badge/Asal-Mentawai-8B5CF6?style=flat-square&labelColor=0D1117" alt="Asal" />
-  <img src="https://img.shields.io/badge/Lokasi-Semarang%2C%20Indonesia-06B6D4?style=flat-square&labelColor=0D1117" alt="Lokasi" />
-</p>
-
 <sub>Pelajar RPL yang sedang membangun kemampuan di dunia software development, web & mobile development, UI/UX, dan video editing.</sub>
 
 </div>
 
 <br/>
 
-```bash
-gelsen@developer:~$ whoami
-Gelsen Kristovan Saleleubaja
-
-gelsen@developer:~$ role
-RPL Student • Web Developer • Mobile Developer • UI/UX • Video Editor
-
-gelsen@developer:~$ origin
-Mentawai -> Semarang
-
-gelsen@developer:~$ status
-Learning • Building • Improving
-█
-```
+<div align="center">
+  <img src="./terminal.svg" width="100%" alt="Terminal profil: Gelsen Kristovan Saleleubaja, RPL Student, Web, Mobile, UI/UX, Video. SMK Bagimu Negeriku, Mentawai ke Semarang." />
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=gelsenxyz3&label=Profile+Views&color=8B5CF6&style=flat-square&labelColor=0D1117" alt="Profile views" />
