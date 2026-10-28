@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════════════════════════════════════
      GELSEN KRISTOVAN SALELEUBAJA — DEVELOPER COMMAND CENTER
-     File animasi ada di folder /assets (header.svg, skills.svg, languages.svg).
+     File animasi ada di akar repo (header.svg, skills.svg, languages.svg, focus.svg).
      Cari teks "GANTI" untuk menemukan semua placeholder link.
      ═══════════════════════════════════════════════════════════ -->
 
@@ -66,14 +66,9 @@ Saya nggak cuma mau bisa bikin tampilan, tapi juga paham bagaimana **struktur, l
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td align="center" width="25%"><b>🎨 Desain</b><br/><sub>UI/UX & visual</sub></td>
-    <td align="center" width="25%"><b>🎬 Video Editing</b><br/><sub>konten & motion</sub></td>
-    <td align="center" width="25%"><b>🌐 Web Dev</b><br/><sub>HTML • CSS • JS • React</sub></td>
-    <td align="center" width="25%"><b>📱 Mobile Dev</b><br/><sub>Flutter • Dart</sub></td>
-  </tr>
-</table>
+<div align="center">
+  <img src="./focus.svg" width="100%" alt="Bidang yang saya tekuni: Desain, Video Editing, Web Dev, Mobile Dev" />
+</div>
 
 <!-- ───────────── 3. WHAT IS RPL ───────────── -->
 ## `> WHAT IS RPL?`
