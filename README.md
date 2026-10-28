@@ -7,7 +7,7 @@
 <!-- ───────────── 1. HERO ───────────── -->
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Gelsen Kristovan Saleleubaja - Software Developer in Progress" />
+<img src="./header.svg" width="100%" alt="Gelsen Kristovan Saleleubaja - Software Developer in Progress" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=06B6D4&center=true&vCenter=true&width=700&height=40&lines=RPL+Student;Web+Developer;Mobile+Developer+(Flutter);UI%2FUX+Designer;Video+Editor;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Typing animation" />
@@ -114,14 +114,14 @@ flowchart LR
 ## `> MY TECH STACK`
 
 <div align="center">
-  <img src="./assets/skills.svg" width="100%" alt="Tech stack: HTML, CSS, JavaScript, PHP, Dart, React, Laravel, Flutter, MySQL, MariaDB, REST API, Figma, UI/UX, Video Editing, Git, GitHub, VS Code, XAMPP" />
+  <img src="./skills.svg" width="100%" alt="Tech stack: HTML, CSS, JavaScript, PHP, Dart, React, Laravel, Flutter, MySQL, MariaDB, REST API, Figma, UI/UX, Video Editing, Git, GitHub, VS Code, XAMPP" />
 </div>
 
 <!-- ───────────── 5. LANGUAGES I USE ───────────── -->
 ## `> LANGUAGES I USE`
 
 <div align="center">
-  <img src="./assets/languages.svg" width="100%" alt="Progres belajar: HTML 80%, CSS 75%, JavaScript 60%, PHP 50%, Dart 40%, React 45%, Laravel 40%, Flutter 40%" />
+  <img src="./languages.svg" width="100%" alt="Progres belajar: HTML 80%, CSS 75%, JavaScript 60%, PHP 50%, Dart 40%, React 45%, Laravel 40%, Flutter 40%" />
 </div>
 
 <sub>*Progress cuma visualisasi proses belajar, bukan klaim tingkat keahlian profesional.*</sub>
