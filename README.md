@@ -1,28 +1,26 @@
 <!-- ═══════════════════════════════════════════════════════════
-     GELSEN KRISTOVAN — DEVELOPER COMMAND CENTER
+     GELSEN KRISTOVAN SALELEUBAJA — DEVELOPER COMMAND CENTER
+     File animasi ada di folder /assets (header.svg, skills.svg, languages.svg).
      Cari teks "GANTI" untuk menemukan semua placeholder link.
      ═══════════════════════════════════════════════════════════ -->
 
 <!-- ───────────── 1. HERO ───────────── -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B12,50:8B5CF6,100:06B6D4&height=220&section=header&text=GELSEN%20KRISTOVAN&fontSize=52&fontColor=F8FAFC&fontAlignY=38&desc=Software%20Developer%20in%20Progress&descSize=20&descColor=F8FAFC&descAlignY=60&animation=fadeIn" width="100%" alt="Gelsen Kristovan banner" />
-
-<br/>
-
-`[ STATUS: ONLINE ]`
+<img src="./assets/header.svg" width="100%" alt="Gelsen Kristovan Saleleubaja - Software Developer in Progress" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=06B6D4&center=true&vCenter=true&width=620&height=40&lines=RPL+Student;Web+Developer;UI%2FUX+Enthusiast;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=06B6D4&center=true&vCenter=true&width=700&height=40&lines=RPL+Student;Web+Developer;Mobile+Developer+(Flutter);UI%2FUX+Designer;Video+Editor;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Typing animation" />
 </a>
 
 <p>
   <img src="https://img.shields.io/badge/SMK-Bagimu%20Negeriku-8B5CF6?style=flat-square&labelColor=0D1117" alt="Sekolah" />
-  <img src="https://img.shields.io/badge/Kelas-XI%20RPL-06B6D4?style=flat-square&labelColor=0D1117" alt="Kelas" />
-  <img src="https://img.shields.io/badge/Lokasi-Semarang%2C%20Indonesia-8B5CF6?style=flat-square&labelColor=0D1117" alt="Lokasi" />
+  <img src="https://img.shields.io/badge/Jurusan-RPL-06B6D4?style=flat-square&labelColor=0D1117" alt="Jurusan" />
+  <img src="https://img.shields.io/badge/Asal-Mentawai-8B5CF6?style=flat-square&labelColor=0D1117" alt="Asal" />
+  <img src="https://img.shields.io/badge/Lokasi-Semarang%2C%20Indonesia-06B6D4?style=flat-square&labelColor=0D1117" alt="Lokasi" />
 </p>
 
-<sub>Pelajar RPL yang sedang membangun kemampuan di dunia software development, web development, dan UI/UX.</sub>
+<sub>Pelajar RPL yang sedang membangun kemampuan di dunia software development, web & mobile development, UI/UX, dan video editing.</sub>
 
 </div>
 
@@ -30,10 +28,13 @@
 
 ```bash
 gelsen@developer:~$ whoami
-Gelsen Kristovan
+Gelsen Kristovan Saleleubaja
 
 gelsen@developer:~$ role
-RPL Student • Web Developer • UI/UX Enthusiast
+RPL Student • Web Developer • Mobile Developer • UI/UX • Video Editor
+
+gelsen@developer:~$ origin
+Mentawai -> Semarang
 
 gelsen@developer:~$ status
 Learning • Building • Improving
@@ -53,11 +54,11 @@ Learning • Building • Improving
   <tr>
     <td>
 
-Saya siswa kelas XI Rekayasa Perangkat Lunak (RPL) di **SMK Bagimu Negeriku** yang tertarik dengan dunia teknologi, pengembangan website, desain antarmuka, dan software development.
+Saya **Gelsen Kristovan Saleleubaja**, berasal dari **Mentawai**, sekarang belajar Rekayasa Perangkat Lunak (RPL) di **SMK Bagimu Negeriku**, Semarang. Saya tertarik pada dunia teknologi, pengembangan website dan aplikasi mobile, desain antarmuka, serta editing video.
 
 Saya sedang belajar bagaimana sebuah ide bisa berkembang jadi produk digital yang tampilannya menarik, mudah dipakai, dan sistemnya jalan dengan baik.
 
-Saya nggak cuma mau bisa bikin tampilan website, tapi juga paham bagaimana **struktur, logika, database, API, dan sistem backend** bekerja di balik sebuah aplikasi.
+Saya nggak cuma mau bisa bikin tampilan, tapi juga paham bagaimana **struktur, logika, database, API, dan sistem backend** bekerja di balik sebuah aplikasi.
 
 <p align="center"><code>Learn. Build. Break. Fix. Repeat.</code></p>
 
@@ -65,10 +66,19 @@ Saya nggak cuma mau bisa bikin tampilan website, tapi juga paham bagaimana **str
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td align="center" width="25%"><b>🎨 Desain</b><br/><sub>UI/UX & visual</sub></td>
+    <td align="center" width="25%"><b>🎬 Video Editing</b><br/><sub>konten & motion</sub></td>
+    <td align="center" width="25%"><b>🌐 Web Dev</b><br/><sub>HTML • CSS • JS • React</sub></td>
+    <td align="center" width="25%"><b>📱 Mobile Dev</b><br/><sub>Flutter • Dart</sub></td>
+  </tr>
+</table>
+
 <!-- ───────────── 3. WHAT IS RPL ───────────── -->
 ## `> WHAT IS RPL?`
 
-**Rekayasa Perangkat Lunak (RPL)** adalah bidang yang mempelajari cara membuat software dari nol sampai bisa dipakai orang, bukan cuma soal nulis kode, tapi seluruh prosesnya.
+**Rekayasa Perangkat Lunak (RPL)** adalah bidang yang mempelajari cara membuat software dari nol sampai bisa dipakai orang. Bukan cuma soal nulis kode, tapi seluruh prosesnya.
 
 ```mermaid
 %%{init: {'theme':'dark','themeVariables':{'primaryColor':'#111827','primaryBorderColor':'#8B5CF6','primaryTextColor':'#F8FAFC','lineColor':'#06B6D4','fontFamily':'monospace'}}}%%
@@ -103,65 +113,16 @@ flowchart LR
 <!-- ───────────── 4. TECH STACK ───────────── -->
 ## `> MY TECH STACK`
 
-**Programming Languages**
-
-<img src="https://img.shields.io/badge/HTML-0D1117?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML" />
-<img src="https://img.shields.io/badge/CSS-0D1117?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS" />
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php&logoColor=777BB4" alt="PHP" />
-<img src="https://img.shields.io/badge/Dart-0D1117?style=flat-square&logo=dart&logoColor=0175C2" alt="Dart" />
-
-**Frontend**
-
-<img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Responsive%20Web%20Design-0D1117?style=flat-square&logo=responsivedesign&logoColor=06B6D4" alt="Responsive Web Design" />
-
-**Backend**
-
-<img src="https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php&logoColor=777BB4" alt="PHP" />
-<img src="https://img.shields.io/badge/Laravel-0D1117?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laravel" />
-<img src="https://img.shields.io/badge/REST%20API-0D1117?style=flat-square&logo=fastapi&logoColor=06B6D4" alt="REST API" />
-<img src="https://img.shields.io/badge/Database%20Integration-0D1117?style=flat-square&logo=databricks&logoColor=8B5CF6" alt="Database Integration" />
-
-**Database**
-
-<img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
-<img src="https://img.shields.io/badge/MariaDB-0D1117?style=flat-square&logo=mariadb&logoColor=003545" alt="MariaDB" />
-
-**Mobile**
-
-<img src="https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=02569B" alt="Flutter" />
-<img src="https://img.shields.io/badge/Dart-0D1117?style=flat-square&logo=dart&logoColor=0175C2" alt="Dart" />
-
-**UI/UX**
-
-<img src="https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma" />
-<img src="https://img.shields.io/badge/Wireframing-0D1117?style=flat-square&logoColor=8B5CF6" alt="Wireframing" />
-<img src="https://img.shields.io/badge/Prototyping-0D1117?style=flat-square&logoColor=8B5CF6" alt="Prototyping" />
-<img src="https://img.shields.io/badge/User%20Interface%20Design-0D1117?style=flat-square&logoColor=8B5CF6" alt="UI Design" />
-<img src="https://img.shields.io/badge/Responsive%20Design-0D1117?style=flat-square&logoColor=8B5CF6" alt="Responsive Design" />
-
-**Tools**
-
-<img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=F8FAFC" alt="GitHub" />
-<img src="https://img.shields.io/badge/VS%20Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
-<img src="https://img.shields.io/badge/XAMPP-0D1117?style=flat-square&logo=xampp&logoColor=FB7A24" alt="XAMPP" />
-<img src="https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma" />
+<div align="center">
+  <img src="./assets/skills.svg" width="100%" alt="Tech stack: HTML, CSS, JavaScript, PHP, Dart, React, Laravel, Flutter, MySQL, MariaDB, REST API, Figma, UI/UX, Video Editing, Git, GitHub, VS Code, XAMPP" />
+</div>
 
 <!-- ───────────── 5. LANGUAGES I USE ───────────── -->
 ## `> LANGUAGES I USE`
 
-```text
-HTML        ████████████████░░  80%
-CSS         ███████████████░░░  75%
-JavaScript  ████████████░░░░░░  60%
-PHP         ██████████░░░░░░░░  50%
-Dart        ████████░░░░░░░░░░  40%
-```
+<div align="center">
+  <img src="./assets/languages.svg" width="100%" alt="Progres belajar: HTML 80%, CSS 75%, JavaScript 60%, PHP 50%, Dart 40%, React 45%, Laravel 40%, Flutter 40%" />
+</div>
 
 <sub>*Progress cuma visualisasi proses belajar, bukan klaim tingkat keahlian profesional.*</sub>
 
@@ -172,20 +133,30 @@ Dart        ████████░░░░░░░░░░  40%
   <tr>
     <td width="50%">
       <h4>01 — Web Development</h4>
-      Membangun website modern menggunakan HTML, CSS, JavaScript, dan framework.
+      Membangun website modern menggunakan HTML, CSS, JavaScript, dan React.
     </td>
     <td width="50%">
       <h4>02 — Backend Development</h4>
-      Belajar membuat sistem backend, database, API, authentication, dan CRUD.
+      Belajar membuat sistem backend dengan PHP & Laravel: database, API, authentication, dan CRUD.
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h4>03 — UI/UX Design</h4>
-      Membuat interface yang bersih, modern, responsive, dan mudah digunakan.
+      <h4>03 — Mobile Development</h4>
+      Belajar membuat aplikasi mobile dengan Flutter dan Dart.
     </td>
     <td width="50%">
-      <h4>04 — Software Engineering</h4>
+      <h4>04 — UI/UX Design</h4>
+      Membuat interface yang bersih, modern, responsive, dan mudah digunakan.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>05 — Video Editing</h4>
+      Mengedit video dan konten visual, dari potongan kasar sampai hasil akhir yang rapi.
+    </td>
+    <td width="50%">
+      <h4>06 — Software Engineering</h4>
       Belajar memahami struktur aplikasi, debugging, version control, dan deployment.
     </td>
   </tr>
@@ -282,8 +253,6 @@ Dart        ████████░░░░░░░░░░  40%
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gelsenxyz3&bg_color=0D1117&color=94A3B8&line=8B5CF6&point=06B6D4&area=true&area_color=8B5CF6&hide_border=true&radius=12" width="100%" alt="Contribution graph" />
 </div>
 
-<!-- Snake animation: butuh workflow .github/workflows/snake.yml (ada di file terpisah).
-     Gambar baru muncul setelah workflow dijalankan satu kali. -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gelsenxyz3/gelsenxyz3/output/github-snake-dark.svg" />
@@ -301,11 +270,12 @@ Dart        ████████░░░░░░░░░░  40%
 │        UI/UX
 │
 ▼
-2027  ── FRONTEND + BACKEND
+2027  ── FRONTEND + BACKEND + MOBILE
 │        React
 │        Laravel
 │        REST API
 │        Database
+│        Flutter
 │
 ▼
 NEXT  ── SOFTWARE ENGINEERING
@@ -345,7 +315,7 @@ SYSTEM READY.
 *"Code is not just something I write.*
 *It is something I use to turn ideas into reality."*
 
-<sub>— Gelsen Kristovan</sub>
+<sub>— Gelsen Kristovan Saleleubaja</sub>
 
 </div>
 
