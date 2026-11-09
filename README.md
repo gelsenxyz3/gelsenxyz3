@@ -98,7 +98,7 @@ flowchart LR
 ## `> LANGUAGES I USE`
 
 <div align="center">
-  <img src="./languages.svg" width="100%" alt="Progres belajar: HTML 80%, CSS 75%, JavaScript 60%, PHP 50%, Dart 40%, React 45%, Laravel 40%, Flutter 40%" />
+  <img src="./languages.svg" width="100%" alt="Progres belajar: HTML 80%, CSS 75%, JavaScript 90%, PHP 50%, Dart 40%, React 45%, Laravel 40%, Flutter 40%" />
 </div>
 
 <sub>*Progress cuma visualisasi proses belajar, bukan klaim tingkat keahlian profesional.*</sub>
